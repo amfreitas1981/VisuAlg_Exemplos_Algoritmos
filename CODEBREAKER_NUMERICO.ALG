@@ -1,4 +1,8 @@
 Algoritmo "Codebreaker_Numerico"
+// Disciplina  : [Linguagem e Lógica de Programação]
+// Descrição   : Cálculos sequenciais numéricos lógicos
+// Autor(a)    : Alexandre Freitas
+// Data atual  : 16/07/2025
 Var
    i, tam, valido, resto, fatorial: inteiro
    seq: vetor[1..20] de real
