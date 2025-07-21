@@ -1,5 +1,5 @@
 # Manual de Funcionamento
-# Algoritmo: Escalas para conversao de tipos de temperatura
+# Algoritmo: Escalas para conversao de tipos de temperatura escalar
 
 
 ## 1. Objetivo do Programa
